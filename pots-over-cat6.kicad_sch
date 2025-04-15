@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "08d61116-f271-4654-b6ea-b77b4b1cb7c6")
 	(paper "A4")
+	(title_block
+		(title "POTS over CAT6 Adapter")
+		(date "2025-04-15")
+		(rev "1.0")
+		(company "Evan Chodora")
+	)
 	(lib_symbols
 		(symbol "615004144121:615004144121"
 			(pin_names
